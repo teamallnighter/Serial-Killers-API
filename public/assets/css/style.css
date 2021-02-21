@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Bebas+Neue&family=Press+Start+2P&display=swap');
+
+h1,h2{
+    font-family: 'Amatic SC', cursive;
+}
+
+h3,h4{
+    font-family: 'Bebas Neue', cursive;
+}
+
+p{
+    font-family: 'Press Start 2P', cursive;
+}
