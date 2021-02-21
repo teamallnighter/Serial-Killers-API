@@ -1,0 +1,48 @@
+{
+    "killers": [
+      { 
+        "id": 1, 
+        "name": "Gary Ridgway", 
+        "country" : "US",
+        "aka": "Green River Killer",
+        "victims" : "49 Convictions | 71 Confessions",
+        "charge" : "Life in prison without parole",
+        "image" : "https://filmdaily.co/wp-content/uploads/2020/04/gary-ridgway-lede-1300x966.jpg",
+        "more" : "https://en.wikipedia.org/wiki/Gary_Ridgway"
+      },
+      {
+        "id": 2, 
+        "name": "Jeffrey Dahmer", 
+        "country" : "US",
+        "aka": "Milwaukee Cannibal",
+        "victims" : "17 Convictions",
+        "charge" : "16 life terms 941 years in prison",
+        "image" : "https://tvline.com/wp-content/uploads/2020/10/jeffrey-dahmer-netflix-ryan-murphy.jpg",
+        "more" : "https://en.wikipedia.org/wiki/Jeffrey_Dahmer"
+      },
+      {
+        "id": 3, 
+        "name": "Pedro López", 
+        "aka": "Monster of the Andes",
+        "victims" : "110 Convictions | 350 Confessions",
+        "charge" : "16 years Ecuador; freed after 14 years; committed to hospital Colombia; freed after 1 year",
+        "image" : "https://prod.static9.net.au/_/media/2018/12/04/20/28/2911_lopez_env_sp.jpg",
+        "more" : "https://en.wikipedia.org/wiki/Pedro_L%C3%B3pez_(serial_killer)"
+      },
+      {
+        "id": 4, 
+        "name": "Harold Shipman", 
+        "aka": "Dr. Death",
+        "victims" : "215+",
+        "charge" : "Life imprisonment (whole life order) plus 4 years for forgery",
+        "image" : "https://filmdaily.co/wp-content/uploads/2020/03/Harold-Shipman-4.jpg",
+        "more" : "https://en.wikipedia.org/wiki/Harold_Shipman"
+      }
+  
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
+  
