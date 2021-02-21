@@ -41,10 +41,21 @@
       {
         "id": 5, 
         "name": "Ted Bundy", 
-        "aka" : "Chris Hagen, Kenneth Misner, Officer Roseland, Richard Burton, Rolf Miller",
+        "aka" : [
+          "Chris Hagen", 
+          "Kenneth Misner", 
+          "Officer Roseland", 
+          "Richard Burton", 
+          "Rolf Miller"
+        ],
         "victims" : "30 confessed; total unconfirmed",
         "criminalPenalty" : "Death",
-        "convictions" : "Aggravated kidnapping, Attempted murder, Burglary, Murder",
+        "convictions" : [
+          "Aggravated kidnapping", 
+          "Attempted murder", 
+          "Burglary", 
+          "Murder"
+        ],
         "image" : "https://s.abcnews.com/images/2020/190215_2020_part_1_hpMain_16x9_992.jpg",
         "more" : "https://en.wikipedia.org/wiki/Ted_Bundy"
       },
@@ -54,14 +65,28 @@
         "aka" : "The Killer Clown",
         "victims" : "33+",
         "criminalPenalty" : "Death",
-        "convictions" : "1 count of sodomy, 33 counts of murder, 1 count of sexual assault, 1 count of indecent liberties with a child",
+        "convictions" : [
+          "1 count of sodomy", 
+          "33 counts of murder", 
+          "1 count of sexual assault", 
+          "1 count of indecent liberties with a child"
+        ],
         "image" : "https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTE5NDg0MDU1MjM2NDc4NDc5/john-wayne-gacy-10367544-2-402.jpg",
         "more" : "https://en.wikipedia.org/wiki/John_Wayne_Gacy"
       },
       {
         "id": 7, 
         "name": "Herman Webster Mudgett", 
-        "aka" : "Henry Howard Holmes, Henry M. Howard, Henry Gordon, Alexander Bond, O. C. Pratt, D. T. Pratt, A. E. Cook, G. Howell",
+        "aka" : [
+          "Henry Howard Holmes",
+          "Henry M. Howard", 
+          "Henry Gordon", 
+          "Alexander Bond", 
+          "O. C. Pratt", 
+          "D. T. Pratt", 
+          "A. E. Cook", 
+          "G. Howell"
+        ],
         "victims" : "9 confirmed, confessed 27, but suspect to be 200 in total",
         "criminalPenalty" : "Death",
         "convictions" : "Murder",
