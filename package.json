@@ -1,0 +1,22 @@
+{
+  "name": "serialkillerz",
+  "version": "1.0.0",
+  "description": "An API for serial killers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamallnighter/Serial-Killers-API.git"
+  },
+  "author": "Chris Connelly & Chelsea Burnham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamallnighter/Serial-Killers-API/issues"
+  },
+  "homepage": "https://github.com/teamallnighter/Serial-Killers-API#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
