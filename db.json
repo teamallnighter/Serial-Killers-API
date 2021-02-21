@@ -6,7 +6,7 @@
         "country" : "US",
         "aka": "Green River Killer",
         "victims" : "49 Convictions | 71 Confessions",
-        "charge" : "Life in prison without parole",
+        "criminalPenalty" : "Life in prison without parole",
         "image" : "https://filmdaily.co/wp-content/uploads/2020/04/gary-ridgway-lede-1300x966.jpg",
         "more" : "https://en.wikipedia.org/wiki/Gary_Ridgway"
       },
@@ -16,7 +16,7 @@
         "country" : "US",
         "aka": "Milwaukee Cannibal",
         "victims" : "17 Convictions",
-        "charge" : "16 life terms 941 years in prison",
+        "criminalPenalty" : "16 life terms 941 years in prison",
         "image" : "https://tvline.com/wp-content/uploads/2020/10/jeffrey-dahmer-netflix-ryan-murphy.jpg",
         "more" : "https://en.wikipedia.org/wiki/Jeffrey_Dahmer"
       },
@@ -25,7 +25,7 @@
         "name": "Pedro López", 
         "aka": "Monster of the Andes",
         "victims" : "110 Convictions | 350 Confessions",
-        "charge" : "16 years Ecuador; freed after 14 years; committed to hospital Colombia; freed after 1 year",
+        "criminalPenalty" : "16 years Ecuador; freed after 14 years; committed to hospital Colombia; freed after 1 year",
         "image" : "https://prod.static9.net.au/_/media/2018/12/04/20/28/2911_lopez_env_sp.jpg",
         "more" : "https://en.wikipedia.org/wiki/Pedro_L%C3%B3pez_(serial_killer)"
       },
@@ -34,15 +34,48 @@
         "name": "Harold Shipman", 
         "aka": "Dr. Death",
         "victims" : "215+",
-        "charge" : "Life imprisonment (whole life order) plus 4 years for forgery",
+        "criminalPenalty" : "Life imprisonment (whole life order) plus 4 years for forgery",
         "image" : "https://filmdaily.co/wp-content/uploads/2020/03/Harold-Shipman-4.jpg",
         "more" : "https://en.wikipedia.org/wiki/Harold_Shipman"
+      },
+      {
+        "id": 5, 
+        "name": "Ted Bundy", 
+        "aka" : "Chris Hagen, Kenneth Misner, Officer Roseland, Richard Burton, Rolf Miller",
+        "victims" : "30 confessed; total unconfirmed",
+        "criminalPenalty" : "Death",
+        "convictions" : "Aggravated kidnapping, Attempted murder, Burglary, Murder",
+        "image" : "https://s.abcnews.com/images/2020/190215_2020_part_1_hpMain_16x9_992.jpg",
+        "more" : "https://en.wikipedia.org/wiki/Ted_Bundy"
+      },
+      {
+        "id": 6, 
+        "name": "John Wayne Gacy", 
+        "aka" : "The Killer Clown",
+        "victims" : "33+",
+        "criminalPenalty" : "Death",
+        "convictions" : "1 count of sodomy, 33 counts of murder, 1 count of sexual assault, 1 count of indecent liberties with a child",
+        "image" : "https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTE5NDg0MDU1MjM2NDc4NDc5/john-wayne-gacy-10367544-2-402.jpg",
+        "more" : "https://en.wikipedia.org/wiki/John_Wayne_Gacy"
+      },
+      {
+        "id": 7, 
+        "name": "Herman Webster Mudgett", 
+        "aka" : "Henry Howard Holmes, Henry M. Howard, Henry Gordon, Alexander Bond, O. C. Pratt, D. T. Pratt, A. E. Cook, G. Howell",
+        "victims" : "	9 confirmed, confessed 27, but suspect to be 200 in total",
+        "criminalPenalty" : "Death",
+        "convictions" : "Murder",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmcFiCJlhdV246gk1gVxTtPCYqJJgNdiD91g&usqp=CAU",
+        "more" : "https://en.wikipedia.org/wiki/H._H._Holmes"
       }
   
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
+    "countries": [
+      { 
+          "id": 1, 
+          "name": "United Stated Of America", 
+          "countryCode": "US" 
+        }
+    ]
   }
   
