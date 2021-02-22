@@ -50,7 +50,7 @@
 
         },
         "criminalPenalty" : "Life in prison without parole",
-        "shortBio" : "also known as the Green River Killer, is an American serial killer. He was initially convicted of 48 separate murders. As part of his plea bargain, another conviction was added, bringing the total number of convictions to 49, making him the second most prolific serial killer in United States history according to confirmed murders.",
+        "shortBio" : "An American serial killer. He was initially convicted of 48 separate murders. As part of his plea bargain, another conviction was added, bringing the total number of convictions to 49, making him the second most prolific serial killer in United States history according to confirmed murders.",
         "image" : "https://filmdaily.co/wp-content/uploads/2020/04/gary-ridgway-lede-1300x966.jpg",
         "more" : "https://en.wikipedia.org/wiki/Gary_Ridgway"
       },
@@ -61,7 +61,7 @@
         "aka": "Milwaukee Cannibal",
         "victims" : "17 Convictions",
         "criminalPenalty" : "16 life terms 941 years in prison",
-        "shortBio": "also known as the Milwaukee Cannibal or the Milwaukee Monster, was a convicted American serial killer and sex offender who committed the murder and dismemberment of 17 men and boys from 1978 to 1991. Many of his later murders involved necrophilia,cannibalism, and the permanent preservation of body parts—typically all or part of the skeleton. ",
+        "shortBio": "An American serial killer and sex offender who committed the murder and dismemberment of 17 men and boys from 1978 to 1991. Many of his later murders involved necrophilia,cannibalism, and the permanent preservation of body parts—typically all or part of the skeleton. ",
         "image" : "https://tvline.com/wp-content/uploads/2020/10/jeffrey-dahmer-netflix-ryan-murphy.jpg",
         "more" : "https://en.wikipedia.org/wiki/Jeffrey_Dahmer"
       },
@@ -71,7 +71,7 @@
         "country": "🇨🇴",
         "aka": "Monster of the Andes",
         "victims" : "110 Convictions | 350 Confessions",
-        "shortBio" : "is a Colombian serial killer and child killer, who was sentenced for killing 110 girls, but who claimed to have raped and killed more than 300 girls across Colombia, Peru and Ecuador. Aside from uncited local accounts, López's crimes first received international attention from an interview conducted by Ron Laytner, a longtime freelance photojournalist who reported interviewing López in his Ambato prison cell in 1980. ",
+        "shortBio" : "A Colombian serial killer and child killer, who was sentenced for killing 110 girls, but who claimed to have raped and killed more than 300 girls across Colombia, Peru and Ecuador. Aside from uncited local accounts, López's crimes first received international attention from an interview conducted by Ron Laytner, a longtime freelance photojournalist who reported interviewing López in his Ambato prison cell in 1980. ",
         "criminalPenalty" : "16 years Ecuador; freed after 14 years; committed to hospital Colombia; freed after 1 year",
         "image" : "https://prod.static9.net.au/_/media/2018/12/04/20/28/2911_lopez_env_sp.jpg",
         "more" : "https://en.wikipedia.org/wiki/Pedro_L%C3%B3pez_(serial_killer)"
@@ -82,6 +82,7 @@
         "country" : "🇺🇸",
         "aka": "Dr. Death",
         "victims" : "215+",
+        "shortBio" : "Known to acquaintances as Fred Shipman, was an English general practitioner who is believed to be one of the most prolific serial killers in modern history. On 31 January 2000, he was found guilty of the murder of 15 patients under his care; his total number of victims was approximately 250. Shipman was sentenced to life imprisonment with the recommendation that he never be released. He died by suicide by hanging on 13 January 2004, a day before his 58th birthday.
         "criminalPenalty" : "Life imprisonment (whole life order) plus 4 years for forgery",
         "image" : "https://filmdaily.co/wp-content/uploads/2020/03/Harold-Shipman-4.jpg",
         "more" : "https://en.wikipedia.org/wiki/Harold_Shipman"
@@ -105,6 +106,7 @@
           "Burglary", 
           "Murder"
         ],
+        "shortBio" : "an American serial killer who kidnapped, raped, and murdered numerous young women and girls during the 1970s and possibly earlier. After more than a decade of denials, before his execution in 1989 he confessed to 30 homicides that he committed in seven states between 1974 and 1978. The true number of victims is believed to be higher.Bundy was regarded as handsome and charismatic.",
         "image" : "https://s.abcnews.com/images/2020/190215_2020_part_1_hpMain_16x9_992.jpg",
         "more" : "https://en.wikipedia.org/wiki/Ted_Bundy"
       },
@@ -121,6 +123,7 @@
           "1 count of sexual assault", 
           "1 count of indecent liberties with a child"
         ],
+        "shortBio" : "an American serial killer and sex offender who assaulted and murdered at least 33 young men and boys. Gacy regularly performed at children's hospitals and charitable events as "Pogo the Clown" or "Patches the Clown", personas he had devised. He was also active in his local community as a Democratic Party precinct captain and building contractor."
         "image" : "https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTE5NDg0MDU1MjM2NDc4NDc5/john-wayne-gacy-10367544-2-402.jpg",
         "more" : "https://en.wikipedia.org/wiki/John_Wayne_Gacy"
       },
@@ -137,6 +140,7 @@
           "A. E. Cook", 
           "G. Howell"
         ],
+        "shortBio" : "Despite his confession of 27 murders after the Pitezel trial awaiting execution, Holmes was convicted and sentenced to death for only one murder, that of accomplice and business partner Benjamin Pitezel. It is speculated that he may have killed as many as 200 people. ",
         "country" : "🇺🇸",
         "victims" : "9 confirmed, confessed 27, but suspect to be 200 in total",
         "criminalPenalty" : "Death",
