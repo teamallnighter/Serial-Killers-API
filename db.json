@@ -31,6 +31,21 @@
             "age" : 17,
             "disappeared" : "August 11, 1982",
             "bodyFound" : "August 15, 1982"
+          },
+          "Opal Charmaine Mills" : {
+            "age" : 16,
+            "disappeared" : "August 12, 1982",
+            "bodyFound" : "August 15, 1982"
+          },
+          "Terry Rene Milligan" : {
+            "age" : 16,
+            "disappeared" : "August 29, 1982",
+            "bodyFound" : "April 1, 1984"
+          },
+          "Mary Bridget Meehan" : {
+            "age" : 18,
+            "disappeared" : "September 15, 1982",
+            "bodyFound" : "November 13, 1983"
           }
 
         },
