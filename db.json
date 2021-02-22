@@ -3,7 +3,7 @@
       { 
         "id": 1, 
         "name": "Gary Ridgway", 
-        "country" : "US",
+        "country" : "🇺🇸",
         "aka": "Green River Killer",
         "deathCount" : "49 Convictions | 71 Confessions",
         "victims" : {
@@ -57,7 +57,7 @@
       {
         "id": 2, 
         "name": "Jeffrey Dahmer", 
-        "country" : "US",
+        "country" : "🇺🇸",
         "aka": "Milwaukee Cannibal",
         "victims" : "17 Convictions",
         "criminalPenalty" : "16 life terms 941 years in prison",
@@ -68,6 +68,7 @@
       {
         "id": 3, 
         "name": "Pedro López", 
+        "country": "🇨🇴",
         "aka": "Monster of the Andes",
         "victims" : "110 Convictions | 350 Confessions",
         "shortBio" : "is a Colombian serial killer and child killer, who was sentenced for killing 110 girls, but who claimed to have raped and killed more than 300 girls across Colombia, Peru and Ecuador. Aside from uncited local accounts, López's crimes first received international attention from an interview conducted by Ron Laytner, a longtime freelance photojournalist who reported interviewing López in his Ambato prison cell in 1980. ",
@@ -78,6 +79,7 @@
       {
         "id": 4, 
         "name": "Harold Shipman", 
+        "country" : "🇺🇸",
         "aka": "Dr. Death",
         "victims" : "215+",
         "criminalPenalty" : "Life imprisonment (whole life order) plus 4 years for forgery",
@@ -94,6 +96,7 @@
           "Richard Burton", 
           "Rolf Miller"
         ],
+        "country" : "🇺🇸",
         "victims" : "30 confessed; total unconfirmed",
         "criminalPenalty" : "Death",
         "convictions" : [
@@ -109,6 +112,7 @@
         "id": 6, 
         "name": "John Wayne Gacy", 
         "aka" : "The Killer Clown",
+        "country" : "🇺🇸",
         "victims" : "33+",
         "criminalPenalty" : "Death",
         "convictions" : [
@@ -133,6 +137,7 @@
           "A. E. Cook", 
           "G. Howell"
         ],
+        "country" : "🇺🇸",
         "victims" : "9 confirmed, confessed 27, but suspect to be 200 in total",
         "criminalPenalty" : "Death",
         "convictions" : "Murder",
