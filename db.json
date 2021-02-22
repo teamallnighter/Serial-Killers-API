@@ -144,6 +144,21 @@
         "convictions" : "Murder",
         "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmcFiCJlhdV246gk1gVxTtPCYqJJgNdiD91g&usqp=CAU",
         "more" : "https://en.wikipedia.org/wiki/H._H._Holmes"
+      },
+      {
+        "id": 8, 
+        "name": "Allan Legere", 
+        "aka" : "Monster of the Miramichi",
+        "shortBio" : "Canadian rapist, arsonist, and serial killer, also known as the Monster of the Miramichi, in reference to a reign of terror he inflicted upon residents of the Miramichi River valley of New Brunswick in 1989.",
+        "country" : "🇨🇦",
+        "victims" : "5+",
+        "criminalPenalty" : "Life imprisonment without the possibility of parole for 25 years",
+        "convictions" : [
+          "Murder",
+          "Arson"
+        ],
+        "image" : "https://beta.ctvnews.ca/content/dam/ctvnews/images/2019/6/16/1_2116917.jpg?cache_timestamp=1560722575024",
+        "more" : "https://en.wikipedia.org/wiki/Allan_Legere"
       }
   
     ],
