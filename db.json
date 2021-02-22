@@ -5,8 +5,38 @@
         "name": "Gary Ridgway", 
         "country" : "US",
         "aka": "Green River Killer",
-        "victims" : "49 Convictions | 71 Confessions",
+        "deathCount" : "49 Convictions | 71 Confessions",
+        "victims" : {
+          "Wendy Lee Coffield" : {
+            "age" : 16,
+            "disappeared" : "July 8th 1982",
+            "bodyFound" : "July 15th 1982"
+          },
+          "Gisele Ann Lovvorn" : {
+            "age" : 17,
+            "disappeared" : "July 17, 1982",
+            "bodyFound" : "September 25, 1982"
+          },
+          "Debra Lynn Bonner" : {
+            "age" : 23,
+            "disappeared" : "July 25, 1982",
+            "bodyFound" : "August 12, 1982"
+          },
+          "Marcia Fay Chapman" : {
+            "age" : 31,
+            "disappeared" : "August 1, 1982",
+            "bodyFound" : "August 15, 1982"
+          },
+          "Cynthia Jean Hinds" : {
+            "age" : 17,
+            "disappeared" : "August 11, 1982",
+            "bodyFound" : "August 15, 1982"
+          }
+
+        },
         "criminalPenalty" : "Life in prison without parole",
+        "shortBio" : "also known as the Green River Killer, is an American serial killer. He was initially convicted of 48 separate murders. As part of his plea bargain, another conviction was added, bringing the total number of convictions to 49, making him the second most prolific serial killer in United States history according to confirmed murders.",
+        "longBio" : "also known as the Green River Killer, is an American serial killer. He was initially convicted of 48 separate murders. As part of his plea bargain, another conviction was added, bringing the total number of convictions to 49, making him the second most prolific serial killer in United States history according to confirmed murders. He killed many teenage girls and women in the state of Washington during the 1980s and 1990s.Most of Ridgway's victims were alleged to be sex workers and other women in vulnerable circumstances, including underage runaways. The press gave him his nickname after the first five victims were found in the Green River before his identity was known.[3] He strangled his victims, usually by hand but sometimes using ligatures. After strangling them, he would dump their bodies in forested and overgrown areas in King County, often returning to the bodies to have sexual intercourse with them. On November 30, 2001, as Ridgway was leaving the Kenworth truck factory where he worked in Renton, Washington, he was arrested for the murders of four women whose cases were linked to him through DNA profiling evidence.As part of a plea bargain wherein he agreed to disclose the locations of still-missing women, he was spared the death penalty and received a sentence of life imprisonment without parole.",
         "image" : "https://filmdaily.co/wp-content/uploads/2020/04/gary-ridgway-lede-1300x966.jpg",
         "more" : "https://en.wikipedia.org/wiki/Gary_Ridgway"
       },
